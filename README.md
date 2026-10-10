@@ -1,24 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladyslav Bondarchuk
-========================================================================================================================================
 
-🌍  I am a Frontend Engineer based in Korosten, Ukraine.
-<br/>
+# Hi there, I'm Vladyslav 👋
 
-### Skills
+### Frontend Engineer | React · Next.js · TypeScript
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=scss,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=webpack,vite,vscode)](https://skillicons.dev)
-<br/>
+Frontend Engineer with **4+ years of commercial experience** building production web applications. My background spans **InsurTech and EdTech**, with a focus on complex, data-driven interfaces and product-focused frontend engineering.
 
-### Socials
+🌍 Based in Ukraine · **Remote** · **English C1**
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/altperson">
-    <img style="height:40px;" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-bage&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://t.me/alt_person">
-    <img style="height:40px;" alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://drive.google.com/file/d/17XRyW1FEyCqsNCdOesZRCKPJ4iCwrIAY/view?usp=sharing">
-    <img style="height:40px;" alt="Static Badge" src="https://img.shields.io/badge/CV-blue?style=for-the-bage&logoColor=white">
-    </a>
-</div>
+### What I Do
+
+- Build complex, data-driven interfaces, dynamic forms, and reusable UI components.
+- Integrate REST APIs, manage asynchronous data flows, and improve user experience.
+- Optimize frontend performance, automated testing, and CI/CD workflows.
+- Use AI-assisted development tools while maintaining ownership of technical decisions and code quality.
+
+### Tech Stack
+
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,sass,tailwind,materialui&perline=10)](https://skillicons.dev)
+
+**Tooling**
+
+[![Development Tools](https://skillicons.dev/icons?i=vite,webpack,jest,git,github,githubactions,figma,vscode&perline=8)](https://skillicons.dev)
+
+**Also working with:** TanStack Query (React Query), RTK Query, Zustand, React Hook Form, Formik, Yup, Zod, Playwright, Vitest, Storybook, REST APIs, GraphQL, and CI/CD.
+
+### AI-Assisted Development
+
+**Tools:** OpenAI Codex · Claude Code · Cursor · GitHub Copilot
+
+I use AI-assisted workflows for debugging, refactoring, code analysis, test generation, and exploring technical solutions.
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altperson/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-182848?style=for-the-badge&logo=vercel&logoColor=white)](https://vb-profile.netlify.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alt_person)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nothinghardforyou@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-2563EB?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F3TGzC6G8uMdnZHsVEWxFej-VPQeFP1w/view?usp=sharing)
